@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Kartik Gupta",
+        "image": "/reviews/r1.png",
+        "review": "Excellent by itself, the product is highly effective. I've noticed a significant change in my weight and overall health after regular use."
+    },
+    {
+        "id": 2,
+        "name": "Poojan Shah",
+        "image": "/reviews/r2.png",
+        "review": "बहुत अच्छा है वजन बढ़ाने के लिए। मैंने इसे कुछ समय तक इस्तेमाल किया और मुझे अपने वजन में स्पष्ट वृद्धि दिखाई दी।"
+    },
+    {
+        "id": 3,
+        "name": "Dhruv Malhotra",
+        "image": "/reviews/r3.png",
+        "review": "It is a really good ayurvedic product without any side effects on the body. It naturally increases appetite and boosts overall body performance."
+    },
+    {
+        "id": 4,
+        "name": "Dinesh Chavhan",
+        "image": "/reviews/r4.png",
+        "review": "वजन बढ़ाने के लिए बेस्ट आयुर्वेदिक प्रोडक्ट हैं। मैंने इसका नियमित उपयोग किया और अच्छे परिणाम मिले हैं।"
+    },
+    {
+        "id": 5,
+        "name": "Gautam Bora",
+        "image": "/reviews/r5.png",
+        "review": "मैं ये प्रोडक्ट 3-4 महीने से लगातर यूज़ कर रहा हूँ और अब मेरी बॉडी काफी फिट और स्वस्थ है। इसने मेरी सेहत में सकारात्मक बदलाव किया।"
+    },
+    {
+        "id": 6,
+        "name": "Dipesh Kumar",
+        "image": "/reviews/r6.png",
+        "review": "ये प्रोडक्ट बहुत सही हैं, अच्छा रिजल्ट मिला। मैंने इसे नियमित रूप से लिया और इसके प्रभावी परिणाम देखे।"
+    },
+    {
+        "id": 7,
+        "name": "Anurag Kumar",
+        "image": "/reviews/r7.png",
+        "review": "Best for Weight Gain. This product has helped me achieve my weight gain goals without any side effects."
+    },
+    {
+        "id": 8,
+        "name": "Shivam Rajput",
+        "image": "/reviews/r8.png",
+        "review": "Yeh weight badhane ke liye best product hain. Maine isse regular use karke apne weight ko bahut improve kiya hai."
+    },
+    {
+        "id": 9,
+        "name": "Raja Vashishath",
+        "image": "/reviews/r9.png",
+        "review": "Kaafi time baad finally ek accha weight gainer powder mil gaya.💪🏋🏼 Regular use se mujhe results dikhayi dene lage hain."
+    }
+]
