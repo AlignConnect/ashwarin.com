@@ -198,7 +198,7 @@ const SelectProduct = () => {
 
 
 
-        <div className="sm:flex  items-center text-center py-3">
+        <div className="text-center py-3">
           <ShiProcket />
         </div>
 
