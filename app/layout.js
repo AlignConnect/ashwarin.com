@@ -87,6 +87,29 @@ export default function RootLayout({ children }) {
           })(window,document,'script','dataLayer','GTM-T3BJKHSW');`}
       </Script>
 
+
+       {/* meta pixel facebook tag start  */}
+       <Script strategy="lazyOnload">
+          {`
+                  !function(f,b,e,v,n,t,s)
+          {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+          fbq('init', '923630475929962');
+          fbq('track', 'PageView');
+        `}
+        </Script>
+
+        <Script
+          strategy="lazyOnload"
+          src={`https://www.facebook.com/tr?id=923630475929962&ev=PageView&noscript=1`}
+        />
+       {/* meta pixel facebook tag end  */}
+
       <body className={inter.className}>
         <iframe
           src="https://www.googletagmanager.com/ns.html?id=GTM-T3BJKHSW"
